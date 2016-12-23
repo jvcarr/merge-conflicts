@@ -1,2 +1,2 @@
-this is a test file
-merge conflicts
+this is a test file BREAK
+merge conflicts MERGE CONFLICT
